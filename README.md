@@ -8,4 +8,4 @@ Nessa interface foi utilizado as seguintes tecnoloigas abaixo:
  - CSS3
  - JavaScript
  
- Foi aplicado responsibidad e regras de container ou wapper.
+ Foi aplicado responsividade e regras de container ou wapper.
